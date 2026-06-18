@@ -1,7 +1,7 @@
 # IP Connection Guard + AbuseIPDB
 
-Cleyton Lenine - https://www.instagram.com/cleyton.lenine/
-App em Python para analisar conexões ativas do Windows usando `netstat -ano`, identificar processos por PID e consultar reputação de IPs públicos no AbuseIPDB.
+- App em Python para analisar conexões ativas do Windows usando `netstat -ano`, identificar processos por PID e consultar reputação de IPs públicos no AbuseIPDB.
+- Cleyton Lenine - https://www.instagram.com/cleyton.lenine/
 
 ## Funções
 
