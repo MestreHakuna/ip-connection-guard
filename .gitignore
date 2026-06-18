@@ -1,0 +1,22 @@
+# Configurações locais / chaves
+ip_guard_config.json
+ip_guard_errors.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Build / PyInstaller
+build/
+dist/
+*.spec
+
+# Sistema
+.DS_Store
+Thumbs.db

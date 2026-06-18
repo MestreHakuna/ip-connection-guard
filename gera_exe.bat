@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed ip_connection_guard_abuseipdb.py
