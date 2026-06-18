@@ -17,6 +17,11 @@
 ## OBTER API DO AbuseIPDB
 https://www.abuseipdb.com/account/api/keys
 
+
+<h2>Preview</h2>
+<img src="assets/preview_1.png" width="500">
+<img src="assets/preview_2.png" width="500">
+
 ## Como usar
 
 crie o exe no CMD com:
